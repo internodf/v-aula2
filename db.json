@@ -1,0 +1,123 @@
+{
+    "envelopes": [{
+        "id": 2017,
+        "status": "200",
+        "objeto": {
+            "codigo": "2017",
+            "diasPreliminar": "10",
+            "diasAndamento": "10",
+            "diasInterrompida": "0",
+            "totalDias": "20",
+            "horasAlocadas": "123",
+            "codigoEstado": "2",
+            "nomeEstado": "Em andamento",
+            "dataEstado": "01/10/2017",
+            "prioritaria": "Não",
+            "previsaoConclusao": "31/12/2017",
+            "limiteConclusao": "01/01/2018",
+            "inicioRealizacao": "28/09/2017",
+            "fimRealizacao": "",
+            "codigoGedip": "332123421",
+            "dataGedip": "28/09/2017",
+            "codigoFormaDeteccao": "3",
+            "nomeFormaDeteccao": "Denúncia",
+            "outraFormaDeteccao": "",
+            "codigoEnquadramento": "3",
+            "nomeEnquadramento": "Falha em serviço",
+            "codigoEncaminhamento": "7",
+            "nomeEncaminhamento": "Relatório disciplinar sem desdobramento",
+            "uorDemandante": "443322",
+            "nomeDemandante": "Linha Paxada",
+            "uorRelacionamento": "223311",
+            "nomeRelacionamento": "GA Pega Tudo",
+            "uorExecutora": "554433",
+            "nomeExecutora": "GA Águas Claras",
+            "unidadesEnvolvidas": [{
+                    "codigo": "889900",
+                    "nome": "Agência Paxada"
+                },
+                {
+                    "codigo": "779900",
+                    "nome": "Linha Paxadinha"
+                }
+            ],
+            "objetosEnvolvidos": [{
+                "codigo": "23",
+                "nome": "Conta corrente"
+            }, {
+                "codigo": "26",
+                "nome": "Cadastro"
+            }],
+            "itensPMI": [{
+                    "codigo": "33",
+                    "nome": "Cadastro do cliente"
+                },
+                {
+                    "codigo": "34",
+                    "nome": "Documentos comprobatórios"
+                }
+            ],
+            "dataPrimeiraOcorrencia": "01/01/2017",
+            "dataUltimaOcorrencia": "01/08/2017",
+            "sinteseFatos": "Lorem ipsum dolor sit amet, sit auctor vehicula leo tincidunt, amet at, massa arcu orci amet. Scelerisque aenean libero vitae quisque urna faucibus, lectus habitant vivamus dignissim, nec eget ornare elementum et fringilla. Neque praesent non at quis massa, semper eros ut pellentesque sed rhoncus vel, vestibulum wisi diam, proin vitae ipsum elit. Arcu quisque mi, libero risus, donec diam mollis, integer arcu commodo luctus, mollis ante enim turpis massa lacus nulla. Massa est molestie nam ipsum cras feugiat, in ut justo sed augue, nunc eu in mi elit, nam leo semper cras fames ut fusce. Blandit suspendisse luctus, morbi hendrerit eros accumsan nulla augue, ultrices erat ullamcorper eget arcu. In pulvinar metus mattis tincidunt. Amet eget ac congue libero, consectetuer mauris sociosqu pede luctus urna, duis quam malesuada ac et sociosqu, vehicula vehicula morbi scelerisque commodo wisi. Tempus phasellus dolor nonummy mattis nullam at, eu scelerisque diam vitae in duis, porttitor ut est ornare porta. Lectus mauris arcu, sit ut, turpis iaculis rutrum. Ultricies purus ac vestibulum dolores nonummy, est vestibulum nulla pulvinar ridiculus at, lorem eu mauris quam wisi, duis gravida.",
+            "parecerGerencia": "",
+            "podeEditar": true,
+            "clientesTexto": ["1", "2"],
+            "clientes": [{
+                    "codigo": "1",
+                    "nome": "João da Silva"
+                },
+                {
+                    "codigo": "2",
+                    "nome": "Maria Hammerschlagger"
+                }
+            ],
+            "equipe": [{
+                    "codigo": "F0123456",
+                    "nome": "Sherlock Holmes",
+                    "funcao": "Gerência/coordenação"
+                },
+                {
+                    "codigo": "F0444356",
+                    "nome": "John Hamish Watson",
+                    "funcao": "Apurador"
+                }
+            ],
+            "valores": [{
+                    "tipo": "ilicitoReal",
+                    "label": "Ilícito (R$)",
+                    "valor": "0,00"
+                },
+                {
+                    "tipo": "ilicitoDolar",
+                    "label": "Ilícito (U$)",
+                    "valor": "0,00"
+                },
+                {
+                    "tipo": "falhaReal",
+                    "label": "Falha em serviço (R$)",
+                    "valor": "0,00"
+                },
+                {
+                    "tipo": "falhaDolar",
+                    "label": "Falha em serviço (U$)",
+                    "valor": "0,00"
+                },
+                {
+                    "tipo": "comportamentalReal",
+                    "label": "Comportamental (R$)",
+                    "valor": "0,00"
+                },
+                {
+                    "tipo": "comportamentalDolar",
+                    "label": "Comportamental (U$)",
+                    "valor": "0,00"
+                }
+            ],
+            "regras": {
+                "podeEditar": true,
+                "podeRestrito": false
+            }
+        }
+    }]
+}
